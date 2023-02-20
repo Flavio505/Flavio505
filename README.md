@@ -7,6 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio505&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
-![Snake animation](https://github.com/flavio505/flavio505/blob/output/github-contribution-grid-snake.svg)
+
   
   
